@@ -1,7 +1,8 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Hi,&nbsp;I'm&nbsp;Seunghoon&nbsp;👋🏻&fontColor=FAFAFA&fontSize=70)
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Hi,&nbsp;I'm&nbsp;Seunghoon👋🏻&fontColor=FAFAFA&fontSize=70)
-
+</div>
   
 🎓  &nbsp;Master's Degree at Inha University, Incheon, Republic of Korea (http://cvip.inha.ac.kr/)
 
