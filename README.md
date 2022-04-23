@@ -3,13 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Hi,&nbsp;I'm&nbsp;Seunghoon👋🏻&fontColor=FAFAFA&fontSize=70)
 
   
+🎓  &nbsp;Master's Degree at Inha University, Incheon, Republic of Korea (http://cvip.inha.ac.kr/)
 
-- Master's Degree at Inha University, Incheon, Republic of Korea (http://cvip.inha.ac.kr/)
-- Major: [Electrical and Computer Engineering]
-- 🌱 I’m currently interested in face recognition, face anti-spoofing, domain generalization
-- 📫 How to reach me: aanna0701@gmail.com
+📖  &nbsp;Major: Electrical and Computer Engineering
 
-<br>
+💼  &nbsp;I`m working at SUPREMA AI as an AI researcher
+
+💡  &nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
+
+📬  &nbsp;How to reach me: aanna0701@gmail.com
+
 <br>
  
 <div align="center">
