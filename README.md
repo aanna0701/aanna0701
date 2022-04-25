@@ -10,7 +10,7 @@
 
 💼  &nbsp;I`m working at SUPREMA AI as an AI researcher
 
-💡  &nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
+💡  &nbsp;&nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
 
 📬  &nbsp;How to reach me: aanna0701@gmail.com
 
