@@ -12,6 +12,8 @@
 
 💡  &nbsp;&nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
 
+👨‍🎓 &nbsp;&nbsp;Google Scholar: https://scholar.google.co.kr/citations?user=z_6OMTEAAAAJ&hl=ko
+
 📬  &nbsp;How to reach me: aanna0701@gmail.com
 
 <br>
