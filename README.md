@@ -8,7 +8,7 @@
 
 📖  &nbsp;Major: Electrical and Computer Engineering
 
-💼  &nbsp;I`m working at SUPREMA AI as an AI researcher
+💼  &nbsp;I`m working at Qureator an a Computer Science Engineer
 
 💡  &nbsp;&nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
 
