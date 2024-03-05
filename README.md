@@ -8,9 +8,9 @@
 
 📖  &nbsp;Major: Electrical and Computer Engineering
 
-💼  &nbsp;I`m working at Qureator an a Computer Science Engineer
+💼  &nbsp;I`m working at Vuno an a Deeplearning Researcher
 
-💡  &nbsp;&nbsp;I’m interested in face recognition, face anti-spoofing, domain generalization
+💡  &nbsp;&nbsp;I’m interested in vision transformer, foundation model, self-supervised learning
 
 👨‍🎓 &nbsp;&nbsp;Google Scholar: https://scholar.google.co.kr/citations?user=z_6OMTEAAAAJ&hl=ko
 
