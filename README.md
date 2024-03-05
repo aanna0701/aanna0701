@@ -8,7 +8,7 @@
 
 📖  &nbsp;Major: Electrical and Computer Engineering
 
-💼  &nbsp;I`m working at Vuno an a Deeplearning Researcher
+💼  &nbsp;I`m working at Vuno an a deep learning researcher
 
 💡  &nbsp;&nbsp;I’m interested in vision transformer, foundation model, self-supervised learning
 
